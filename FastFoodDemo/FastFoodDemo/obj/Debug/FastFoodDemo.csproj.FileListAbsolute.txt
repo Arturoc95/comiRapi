@@ -1,0 +1,24 @@
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.Cache
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.TercerCC.resources
+C:\Users\capacitaciones\Downloads\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.HambuerguesaMenu.resources
